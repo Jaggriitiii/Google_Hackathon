@@ -1,0 +1,177 @@
+,Name,Disease Specialization,Rating,starts,ends
+0,John Smith,Stroke,4.3,8,20
+1,Sarah Lee,Epilepsy,4.7,8,20
+2,Michael Chen,Pediatrics,4.5,7,18
+3,Emily Davis,Dermatitis,4.1,9,17
+4,Jason Kim,Orthopedic injuries,4.4,10,23
+5,Lisa Brown,Depression,4.2,9,22
+6,David Park,Diabetes,4.6,10,21
+7,Jennifer Chen,Cataracts,4.3,7,15
+8,Kevin Lee,Kidney stones,4.7,8,16
+9,Karen Nguyen,Ulcerative colitis,4.5,9,22
+10,Ryan Johnson,Asthma,4.1,8,17
+11,Samantha Kim,Anemia,4.4,10,25
+12,Eric Wilson,Cancer,4.2,8,16
+13,Michelle Lee,Migraines,4.6,7,19
+14,Brian Davis,Parkinson's disease,4.3,10,19
+15,Daniel Rodriguez,Alzheimer's disease,4.7,9,19
+16,Catherine Chen,High blood pressure,4.5,7,17
+17,Mark Lee,Heart disease,4.1,10,18
+18,Alex Kim,Chronic pain,4.4,9,17
+19,Julie Smith,Sleep disorders,4.2,9,17
+20,Andrew Johnson,Arthritis,4.6,7,17
+21,Stephanie Lee,Allergies,4.3,9,18
+22,Robert Brown,Obesity,4.7,8,19
+23,Laura Davis,Autoimmune diseases,4.5,9,18
+24,Jasmine Park,HIV/AIDS,4.1,8,18
+25,Thomas Chen,Infectious diseases,4.4,9,18
+26,Natalie Nguyen,Sexually transmitted diseases,4.2,9,17
+27,Brandon Johnson,Addiction,4.6,10,20
+28,Linda Kim,Anxiety disorders,4.3,8,20
+29,Adam Wong,Prostate cancer,4.3,7,18
+30,Stephanie Chen,Obstetrics and gynecology,4.7,10,21
+31,Nathan Lee,Hypertension,4.5,9,17
+32,Karen Davis,Lung cancer,4.1,6,13
+33,Patrick Kim,Joint replacement surgery,4.4,7,19
+34,Michelle Brown,Anorectal disorders,4.2,8,15
+35,Victor Park,Autoimmune hepatitis,4.6,10,19
+36,Ashley Chen,Coronary artery disease,4.3,8,14
+37,Justin Lee,Bladder cancer,4.7,8,18
+38,Linda Nguyen,Thyroid disorders,4.5,9,18
+39,Robert Johnson,Obstructive sleep apnea,4.1,9,19
+40,Lauren Kim,Liver disease,4.4,10,20
+41,Daniel Wilson,Colorectal cancer,4.2,8,18
+42,Erica Lee,Laryngology,4.6,9,21
+43,Rachel Davis,Inflammatory bowel disease,4.3,10,17
+44,Peter Park,Hypoglycemia,4.7,8,17
+45,Christine Chen,End-stage renal disease,4.5,6,17
+46,David Lee,Cystic fibrosis,4.1,8,14
+47,Julia Nguyen,Cervical cancer,4.4,9,18
+48,William Johnson,Neurodegenerative disorders,4.2,9,17
+49,Megan Kim,Hearing loss,4.6,10,14
+50,Ryan Brown,Psoriasis,4.3,10,18
+51,Hannah Park,Pancreatic cancer,4.7,9,16
+52,Jacob Chen,Hepatitis B,4.5,7,15
+53,Avery Lee,Blindness and visual impairment,4.1,9,20
+54,Sophia Nguyen,Chronic kidney disease,4.4,8,17
+55,Austin Johnson,Schizophrenia,4.2,9,20
+56,Olivia Kim,Obstructive lung disease,4.6,9,17
+57,Ethan Davis,Chronic fatigue syndrome,4.3,7,18
+58,Jacob Wilson,Prostate disorders,4.3,8,18
+59,Emma Lee,Cardiovascular diseases,4.7,7,18
+60,Tyler Davis,Pulmonary hypertension,4.5,9,19
+61,Amanda Park,Osteoporosis,4.1,9,20
+62,Gabriel Chen,Head and neck cancers,4.4,7,19
+63,Brianna Brown,Rheumatoid arthritis,4.2,8,16
+64,Matthew Kim,Lung diseases,4.6,8,17
+65,Sophie Nguyen,Eating disorders,4.3,6,17
+66,Anthony Johnson,Multiple sclerosis,4.7,9,17
+67,Melanie Kim,Gastrointestinal disorders,4.5,10,20
+68,Alexander Smith,Hematological disorders,4.1,8,15
+69,Isabella Lee,Reproductive disorders,4.4,8,20
+70,Elijah Davis,Addison's disease,4.2,9,20
+71,Grace Park,Infectious diseases,4.6,8,14
+72,Nicholas Chen,Heart failure,4.3,8,20
+73,Abigail Lee,Leukemia,4.7,8,17
+74,Evan Nguyen,Chronic obstructive pulmonary disease,4.5,8,16
+75,Chloe Johnson,Crohn's disease,4.1,8,18
+76,Joshua Kim,Kidney disease,4.4,8,16
+77,Madison Brown,Alcohol use disorder,4.2,8,18
+78,Andrew Park,Interstitial lung disease,4.6,10,20
+79,Haley Chen,Bladder and kidney stones,4.3,10,20
+80,Christopher Lee,Cystic kidney diseases,4.7,9,19
+81,Victoria Davis,Sleep apnea,4.5,9,19
+82,Logan Park,Chronic kidney diseases,4.1,10,21
+83,Maria Nguyen,Thyroid cancer,4.4,6,16
+84,Ryan Johnson,Inflammatory joint disease,4.2,8,22
+85,Natalie Kim,Pancreatic disorders,4.6,8,17
+86,Justin Brown,Obstructive sleep apnea,4.3,10,20
+87,Avery Chen,Spinal cord injuries,4.3,9,20
+88,Sophia Brown,Skin diseases,4.7,9,20
+89,Ethan Kim,Attention deficit hyperactivity disorder (ADHD),4.5,7,15
+90,Olivia Park,Autoimmune diseases,4.1,8,20
+91,David Lee,Anxiety disorders,4.4,8,15
+92,Julia Nguyen,Chronic pain,4.2,9,16
+93,William Johnson,Genetic disorders,4.6,6,19
+94,Megan Kim,Liver cancer,4.3,9,20
+95,Ryan Brown,Obesity,4.7,9,16
+96,Hannah Park,Endocrinology,4.5,9,18
+97,Jacob Chen,Esophageal cancer,4.1,9,16
+98,Avery Lee,Lupus,4.4,8,19
+99,Sophia Nguyen,Parkinson's disease,4.2,8,19
+100,Austin Johnson,Depression,4.6,9,16
+101,Olivia Kim,Non-Hodgkin's lymphoma,4.3,11,22
+102,Ethan Davis,Brain tumors,4.7,8,16
+103,Jacob Wilson,Bladder disorders,4.5,8,18
+104,Emma Lee,Gastroesophageal reflux disease (GERD),4.1,8,14
+105,Tyler Davis,Osteoarthritis,4.4,11,22
+106,Amanda Park,Peripheral artery disease,4.2,10,20
+107,Gabriel Chen,Bone tumors,4.6,9,21
+108,Brianna Brown,Chronic obstructive pulmonary disease (COPD),4.3,8,17
+109,Matthew Kim,Chronic kidney disease,4.7,9,17
+110,Sophie Nguyen,Hepatitis C,4.5,8,16
+111,Anthony Johnson,Chronic liver disease,4.1,9,17
+112,Melanie Kim,Inflammatory bowel disease (IBD),4.4,8,19
+113,Alexander Smith,Sickle cell disease,4.2,8,18
+114,Isabella Lee,Migraines,4.6,7,16
+115,Elijah Davis,End-stage liver disease,4.3,10,18
+116,Grace Park,Coronary artery disease,4.7,11,22
+117,Nicholas Chen,Pancreatic cancer,4.3,8,16
+118,Abigail Lee,Depressive disorders,4.7,10,21
+119,Evan Nguyen,Autoimmune hepatitis,4.5,9,21
+120,Chloe Johnson,Bladder cancer,4.1,8,17
+121,Joshua Kim,Colorectal cancer,4.4,9,18
+122,Madison Brown,Chronic kidney disease,4.2,8,16
+123,Andrew Park,Neurological disorders,4.6,9,19
+124,Haley Chen,Glaucoma,4.3,9,18
+125,Christopher Lee,Obstructive lung diseases,4.7,8,18
+126,Victoria Davis,Neonatal diseases,4.5,9,20
+127,Logan Park,Psoriasis,4.1,10,20
+128,Maria Nguyen,Pulmonary embolism,4.4,9,19
+129,Ryan Johnson,Spinal cord disorders,4.2,7,17
+130,Natalie Kim,Heart disease,4.6,8,15
+131,Justin Brown,Liver diseases,4.3,9,18
+132,Avery Chen,Chronic fatigue syndrome,4.7,11,21
+133,Sophia Brown,Pancreatic disorders,4.5,9,19
+134,Ethan Kim,Renal disease,4.1,8,18
+135,Olivia Park,Inflammatory lung disease,4.4,8,15
+136,David Lee,Obstetrics and gynecology,4.2,10,18
+137,Julia Nguyen,Multiple myeloma,4.6,11,19
+138,William Johnson,Peripheral neuropathy,4.3,9,19
+139,Megan Kim,Neuroendocrine tumors,4.7,9,19
+140,Ryan Brown,Chronic pain syndrome,4.5,9,19
+141,Hannah Park,Anemia,4.1,8,18
+142,Jacob Chen,Chronic obstructive pulmonary disease (COPD),4.4,7,18
+143,Avery Lee,Prostate cancer,4.2,9,19
+144,Sophia Nguyen,Breast cancer,4.6,9,19
+145,Austin Johnson,Lung cancer,4.3,7,14
+146,Oliver Davis,Child and adolescent psychiatry,4.3,8,15
+147,Mia Kim,Chronic lymphocytic leukemia,4.7,9,18
+148,Lucas Brown,Endocrine disorders,4.5,10,19
+149,Emily Park,Hematologic malignancies,4.1,7,10
+150,Logan Chen,Gastrointestinal cancers,4.4,7,17
+151,Natalie Lee,Hepatobiliary disorders,4.2,8,16
+152,Andrew Nguyen,Mood disorders,4.6,9,19
+153,Haley Johnson,Arrhythmias,4.3,8,15
+154,Christopher Kim,Chronic sinusitis,4.7,9,16
+155,Victoria Brown,Rheumatoid arthritis,4.5,10,23
+156,Justin Park,Brain and spinal cord tumors,4.1,9,21
+157,Avery Chen,Blood disorders,4.4,11,21
+158,Sophia Lee,Infectious diseases,4.2,8,17
+159,Ethan Davis,Pulmonary hypertension,4.6,9,17
+160,Olivia Wilson,Neurodevelopmental disorders,4.3,9,18
+161,David Smith,Hypertension,4.7,9,18
+162,Julia Lee,End-stage renal disease,4.5,8,16
+163,William Nguyen,Cystic fibrosis,4.1,9,19
+164,Megan Johnson,Chronic lymphedema,4.4,10,20
+165,Ryan Kim,Hepatocellular carcinoma,4.2,9,18
+166,Hannah Brown,Cardiovascular disease,4.6,9,17
+167,Jacob Park,Prostate disorders,4.3,8,19
+168,Avery Wilson,Chronic liver failure,4.7,9,19
+169,Sophia Chen,Lung disorders,4.5,10,21
+170,Austin Lee,Chronic pancreatitis,4.1,8,16
+171,Olivia Nguyen,Stroke,4.4,8,18
+172,Ethan Johnson,Gynecologic cancers,4.2,10,19
+173,David Kim,Chronic rhinitis,4.6,7,14
+174,Julia Brown,Kidney stones,4.3,8,22
+175,William Park,Spinal cord trauma,4.7,7,18
