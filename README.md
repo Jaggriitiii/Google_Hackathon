@@ -10,4 +10,4 @@ The code has been compiled and executed once and has the output according to tha
 4. The predicted disease will be printed
 5. It will then ask for time during which patient is free. Please provide the time in 24hrs format and just integer as input. For ex- if free at 2p.m. just write 14.
 6. The model will then predict the top 4 doctors according to highest rating.
-7. IMP- if some cell throws an error please rerun that cell and then the cells after that one by one. 
+7. IMP- if some cell throws an error please re-run that cell and then the cells after that one by one. 
